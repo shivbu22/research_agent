@@ -1,0 +1,9 @@
+openai
+google-genai
+googlesearch-python
+beautifulsoup4
+requests
+python-dotenv
+schedule
+mcp
+pydantic
